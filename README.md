@@ -1,2 +1,2 @@
 # materias_tecnicas
-Repositorio feito para hospedar os projetos feitos em aula
+**Repositorio feito para hospedar os projetos feitos em aula.**
